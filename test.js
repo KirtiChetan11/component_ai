@@ -1,3 +1,101 @@
+Sure! Here's a sample response to the Prompt-a-Thon submission form with a unique, impactful problem and strong, clear prompts that demonstrate GitHub Copilot's usefulness. You can customize it further depending on your experience.
+
+
+---
+
+Problem Statement
+
+As part of a risk analytics platform, we needed to build a utility that automatically parses SQL files, detects hardcoded credentials or unsafe patterns (like SQL injection-prone queries), and replaces them with secure, parameterized placeholders. This is crucial for ensuring secure and standardized SQL execution across our codebase. The challenge was to automate detection and mitigation within existing legacy code using a .NET console application.
+
+
+---
+
+Solution Approach
+
+1. We first identified common patterns of insecure SQL queries using regex.
+
+
+2. Then, we planned a .NET tool that:
+
+Reads .sql files
+
+Detects hardcoded values in SQL commands
+
+Rewrites those queries using SqlParameter objects.
+
+
+
+3. Used GitHub Copilot to rapidly generate code for:
+
+File reading and parsing
+
+Regex pattern detection
+
+Generating secure code using parameterization
+
+
+
+4. Tested output queries and verified correctness via a SQL testing framework.
+
+
+5. Wrapped the solution in a clean CLI-based console application.
+
+
+
+
+---
+
+Prompts Used
+
+Here are the exact prompts used in GitHub Copilot:
+
+1. Prompt:
+"Write a C# method that reads all .sql files from a given folder and returns a list of file paths."
+Copilot generated file directory reading code with LINQ and proper error handling.
+
+
+2. Prompt:
+"Create a C# function that identifies SQL queries containing hardcoded values in WHERE clauses using regex."
+Copilot provided a regex that detected WHERE clauses with literal values like WHERE id = 123.
+
+
+3. Prompt:
+"Generate a method to replace hardcoded values in SQL with parameterized SqlCommand syntax in C#"
+Copilot gave a near-complete code block using SqlCommand.Parameters.AddWithValue() for each detected literal.
+
+
+4. Prompt:
+"Build a console app in C# that takes a folder path as input, finds all SQL files, detects insecure queries, and rewrites them with parameterized syntax."
+Copilot scaffolded a working console app using Main, args, and helper methods.
+
+
+5. Prompt:
+"Suggest test cases for validating the output of a SQL sanitization tool in C#"
+Copilot listed boundary cases like missing WHERE clause, multiple parameters, and SQL comments.
+
+
+
+
+---
+
+Impact
+
+Reduced manual code review effort for SQL security by 80%.
+
+Improved security posture by eliminating SQL injection risks from 1000+ legacy scripts.
+
+Cut development time from 4 days to 6 hours using Copilot-assisted code generation.
+
+Enabled non-security developers to apply best practices via automation.
+
+
+
+---
+
+Would you like me to help tailor this for a problem you've actually worked on or personalize it to your project context?
+
+
+
 Playwright Test Script for IRA Deceased Tracking Tool
 Here's a comprehensive test script for the IRA Deceased Tracking Tool page using Playwright:
 
