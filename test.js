@@ -1,3 +1,53 @@
+Sure! Here's a more concise version of your Mid-Year Achievements – 2025, while retaining the technical clarity and professionalism:
+
+
+---
+
+Mid-Year Achievements – 2025
+
+1. Automation Testing for IRIS & DMM
+Led automation testing for IRIS and DMM, a key requirement for OCP migration. Improved regression coverage and reduced manual effort through well-structured test cases.
+
+
+2. Full-Stack Development Contributions
+Contributed to IRIS Web and Indigo Admin as a full-stack developer using Angular, .NET Core, and Java, enhancing features and performance.
+
+
+3. DMM Application Ownership
+Handled support, defect fixes, and enhancements for DMM. Ensured stability and timely delivery of updates as per business needs.
+
+
+4. IRIS Database Migration Support
+Assisted in testing DMM jobs as part of IRIS DB migration, ensuring data integrity and smooth transition post-migration.
+
+
+5. Indigo FRC Sourcing & DevOps Exposure
+Worked on Indigo FRC Sourcing, gaining experience in UCD and Harness for deployments, build pipelines, and environment validations.
+
+
+6. CR Execution & Production Readiness
+Delivered multiple CRs, gaining hands-on knowledge of release cycles, CAB process, vulnerability checks, and secure, timely delivery.
+
+
+7. AI Hackathon & Prompt-thon Participation
+Participated in AI-focused innovation events, exploring GenAI tools and prompt engineering for enterprise applications.
+
+
+8. Cricket Tournament Participation
+Contributed to the team in a corporate cricket tournament, helping secure the Runner-Up Trophy and strengthening team spirit.
+
+
+
+
+---
+
+Let me know if you'd like a one-line summary version too.
+
+
+
+
+
+
 Sure! Here's a sample response to the Prompt-a-Thon submission form with a unique, impactful problem and strong, clear prompts that demonstrate GitHub Copilot's usefulness. You can customize it further depending on your experience.
 
 
