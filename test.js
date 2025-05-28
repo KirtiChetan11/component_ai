@@ -1,3 +1,93 @@
+Absolutely! Here's your updated Mid-Year Achievements – 2025 with a well-structured “Area of Focus” and “Risk Overlay” section. I've also added a couple of relevant points to round out your achievements based on your ongoing contributions:
+
+
+---
+
+Mid-Year Achievements – 2025
+
+1. Automation Testing for IRIS & DMM
+Led automation testing for IRIS and DMM applications, a critical part of the OCP migration. Improved regression coverage and reduced manual testing efforts.
+
+
+2. Full-Stack Development Contributions
+Contributed to IRIS Web and Indigo Admin using Angular, .NET Core, and Java, delivering critical features and performance improvements.
+
+
+3. DMM Application Ownership
+Took full ownership of the DMM application, resolving defects and implementing enhancements as per changing business needs.
+
+
+4. IRIS Database Migration Support
+Supported IRIS DB migration by validating and testing DMM jobs, ensuring smooth data transition and job integrity.
+
+
+5. Indigo FRC Sourcing & DevOps Exposure
+Worked on Indigo FRC Sourcing module, gaining hands-on experience with UCD and Harness for deployment and CI/CD pipeline integration.
+
+
+6. CR Execution & Production Readiness
+Delivered multiple CRs, gaining experience in production release processes, CAB approvals, vulnerability resolution, and secure delivery practices.
+
+
+7. AI Hackathon & Prompt-thon Participation
+Participated in AI-focused events, exploring Generative AI, prompt engineering, and real-world applications in enterprise use cases.
+
+
+8. Azure Cloud Training Completion
+Completed Microsoft Azure cloud training, gaining understanding of cloud infrastructure, services, deployment models, and security controls.
+
+
+9. Cricket Tournament Contribution
+Represented the team in a corporate cricket tournament and helped secure the Runner-Up Trophy, fostering team bonding.
+
+
+10. Knowledge Sharing & Team Support
+Actively supported teammates during testing phases, shared technical insights, and contributed to internal knowledge building through informal sessions.
+
+
+
+
+---
+
+Area of Focus (H2 2025)
+
+AI Adoption & Applied Use Cases
+Focus on integrating AI/GenAI into project-specific workflows and exploring automation opportunities through intelligent systems.
+
+Automation Strategy Development
+Contribute toward building a unified test automation strategy, expanding current test coverage, and identifying new automation candidates across modules.
+
+AOP (Annual Operating Plan) Utilization Increase
+Ensure strategic alignment of work with organizational AOP goals through focused delivery, innovation, and stakeholder engagement.
+
+Cloud Adoption & CI/CD Maturity
+Apply Azure skills in active project environments and strengthen deployment automation and monitoring capabilities via CI/CD pipelines.
+
+
+
+---
+
+Risk Overlay
+
+On-Time Delivery & Deadline Management
+Mitigate delivery risks by planning ahead, communicating blockers early, and adhering to sprint goals and release timelines.
+
+Security & Vulnerability Management
+Proactively monitor for code vulnerabilities and ensure resolution before release. Follow SAST/DAST best practices and collaborate with security teams.
+
+Robust Code Testing Before Deployment
+Emphasize thorough unit, integration, and system testing before production releases to maintain high code quality and avoid post-deployment issues.
+
+Cross-Team Dependency Management
+Manage dependencies between teams effectively to avoid blockers and ensure seamless integration across systems.
+
+
+
+---
+
+Let me know if you'd like this formatted for a PDF, email, slide deck, or if you want to add visuals or graphs for presentation.
+
+
 Sure! Here's a more concise version of your Mid-Year Achievements – 2025, while retaining the technical clarity and professionalism:
 
 
