@@ -1,3 +1,52 @@
+Here’s your updated and elaborated Mid-Year Achievements – 2025 with the new points integrated in a professional and technically detailed format:
+
+
+---
+
+Mid-Year Achievements – 2025
+
+1. Automation Testing for IRIS and DMM Applications
+Took charge of automation testing for both IRIS and DMM applications, which were key components in the OCP migration journey. Developed and executed automated test scripts, significantly improving regression test coverage and reducing manual effort. This ensured system reliability during platform transition and helped in early defect identification.
+
+
+2. Full-Stack Development Across Multiple Applications
+Played an integral role in the full-stack development of applications such as IRIS Web and Indigo Admin. Gained hands-on experience working with Angular for responsive front-end design, and .NET Core and Java for robust back-end logic. Contributed to feature development, bug fixes, and performance enhancements while adhering to Agile best practices and clean code principles.
+
+
+3. Maintenance and Enhancement of DMM Application
+Took complete ownership of the DMM application, managing ongoing support activities. Actively resolved production defects, implemented change requests, and addressed evolving business requirements. Ensured consistent application performance and stability with timely and high-quality deliveries.
+
+
+4. IRIS Database Migration Support
+Contributed to the IRIS database migration by assisting in the validation and testing of all related DMM batch jobs. Helped ensure data consistency and business continuity post-migration, while minimizing job failures through thorough end-to-end testing.
+
+
+5. Indigo FRC Sourcing – DevOps & Deployment Tools Exposure
+Worked on the Indigo FRC Sourcing module, gaining substantial experience with modern deployment tools such as UrbanCode Deploy (UCD) and Harness. Participated in build promotions, deployment pipeline configurations, and post-deployment validation across multiple environments.
+
+
+6. Production Release & Vulnerability Handling through CRs
+Successfully executed multiple Change Requests (CRs), gaining practical knowledge of the production release lifecycle. This included understanding of CAB processes, vulnerability scans (SAST/DAST), secure coding practices, and ensuring to-the-point and timely deliveries aligned with compliance standards.
+
+
+7. Participation in AI Hackathon & Prompt-thon
+Engaged in the organization’s AI Hackathon and Prompt-thon events, focusing on prompt engineering and use-case exploration using Generative AI. These experiences deepened my understanding of LLMs and their applications in enterprise solutions.
+
+
+8. Team Engagement & Cricket Tournament Contribution
+Took part in team engagement activities by representing the team in the corporate cricket tournament. Contributed both on and off the field, and helped the team secure the Runner-Up Trophy, fostering collaboration and morale within the group.
+
+
+
+
+---
+
+Let me know if you'd like this structured into bullets for a PPT or adapted for a performance appraisal system like Workday.
+
+
+
+
+
 Absolutely! Here's your updated Mid-Year Achievements – 2025 with a well-structured “Area of Focus” and “Risk Overlay” section. I've also added a couple of relevant points to round out your achievements based on your ongoing contributions:
 
 
