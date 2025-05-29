@@ -1,3 +1,107 @@
+Sure! Here's a more concise version of your "Areas of Focus Going Forward – H2 2025", with shorter points and your addition about increasing GitHub Copilot usage:
+
+
+---
+
+Areas of Focus Going Forward – H2 2025
+
+
+---
+
+1. AI & Copilot Adoption
+
+Increase practical use of GitHub Copilot and GenAI tools to boost productivity in coding and test case generation.
+
+Explore small-scale AI use cases in daily workflows.
+
+
+
+---
+
+2. Test Automation Expansion
+
+Broaden automation across modules, especially for batch jobs.
+
+Build or enhance a reusable test framework aligned with CI/CD.
+
+
+
+---
+
+3. Cloud & DevOps Hands-On
+
+Apply Azure training in live deployments and pipelines.
+
+Learn tools like Terraform, GitHub Actions, and Bicep.
+
+
+
+---
+
+4. Secure Coding & Release Readiness
+
+Improve focus on vulnerability checks and secure CR delivery.
+
+Follow OWASP best practices and shift-left testing.
+
+
+
+---
+
+5. Cross-Team Collaboration & Leadership
+
+Take more ownership in planning, estimation, and sprint facilitation.
+
+Mentor juniors and support onboarding where needed.
+
+
+
+---
+
+6. Increased Org Engagement
+
+Contribute to tech talks, hackathons, and internal forums.
+
+Share reusable components or learnings to increase visibility.
+
+
+
+---
+
+Let me know if you’d like a version combined with your summary for a complete self-review.
+
+
+
+  Here's a well-structured and concise Risk Overlay Comment for your mid-year review, using the BIUA8 format and addressing all the points mentioned:
+
+
+---
+
+Employee Comment – Risk Overlay (BIUA8 Format)
+
+On-Time Delivery & Deadline Management:
+All assigned tasks and CRs were delivered within the planned sprint timelines. I proactively communicated blockers and dependencies during daily stand-ups and ensured work completion aligned with release schedules.
+
+Security & Vulnerability Management:
+Vulnerability checks were conducted regularly using SAST/DAST tools. Any security flags identified during CRs were resolved in collaboration with the security team. I also followed secure coding guidelines and incorporated feedback during code reviews.
+
+Robust Code Testing Before Deployment:
+Each release was supported with thorough unit, integration, and functional testing. For DMM-related changes, I ensured job validation and regression testing, especially around the IRIS migration. No critical post-deployment issues were reported.
+
+RTO:
+I maintained RTO readiness by adhering to recovery protocols and validating job outputs post-deployment to minimize downtime risks.
+
+Jira Hygiene:
+All work items were updated regularly in Jira with accurate status, estimates, and comments. Stories and bugs were properly closed after testing and UAT confirmation, ensuring full traceability and clean board views.
+
+
+---
+
+Let me know if you'd like a version tailored for Workday, Word, or manager submission.
+
+
+
+
 Here’s your updated and elaborated Mid-Year Achievements – 2025 with the new points integrated in a professional and technically detailed format:
 
 
