@@ -1,3 +1,96 @@
+[2/18, 11:10 AM] Kirti Chetan: SELECT DISTINCT SiteId
+
+DateCreated
+
+--, Interval
+
+sum (CallsAnswered) as CallsAnswered Interval, min (Interval), max(Interval)
+
+FROM AID0241.dbo. AvayaInterval
+
+WHERE DateCreated>=cast(getdate()-1 as date) and SiteId in ('44', '47')
+
+GROUP BY SiteId
+
+DateCreated
+
+ORDER BY DateCreated
+
+select datefor, siteid, count (1)
+
+From AID0241. Avaya IntervalSL
+
+where DateFor '2025-09-18′
+
+group by datefor, siteid
+
+select cast(callstartdt as date), max(callstartdt), count (1) from CDSA. ASPT_UATACDCallDetail
+
+where cast (callstartdt as date)>= getdate()-1
+
+group by cast(callstartdt as date)
+
+order by cast (callstartdt as date)
+
+--select top 10 from CDSA..ASPT_UATAgentIdleDetail
+
+select cast(CreateDt as date), max (IdleStartDt), count(1) from CDSA..ASPT_UATAgentIdleDetail
+
+where cast(CreateDt as date)> getdate()-1
+
+group by cast (CreateDt as date)
+
+order by cast (CreateDt as date)
+[2/18, 11:11 AM] Kirti Chetan: select cast (callstartdt as date), max(callstartdt), count(1) ACDCallDetail
+
+from Phone..ACDCallDetail where cast(callstartdt as date)>= getdate()-4
+
+group by cast(callstartdt as date) order by cast (callstartdt as date)
+
+--[cl_contact_event]
+
+select count(1) cl_contact_event, CAST (EccosRowCreateDtUTC AS DATE) [date], SourceID
+
+FROM Phone. [dbo].[cl_contact_event] WHERE CAST (EccosRowCreateDtUTC AS DATE) > '09/17/2025'
+
+AND CAST (Eccos RowCreateDtTC AS DATE) < 09/19/2025'
+
+group by CAST (EccosRowCreteDtUTC AS DATE), SourceID order by CAST (EccosRowCreateDtUTC AS DATE);
+
+--[cl_contact_list]
+
+select count(1) cl_contact_list, CAST (EccosRowCreateDtUTC AS DATE) [date]
+
+FROM Phone. [dbo].[cl_contact_list] WHERE CAST (EccosRowCreateDtUTC AS DATE) >= '09/17/2025'
+
+AND CAST (EccosRowCreateDtUTC AS DATE) < '09/19/2025'
+
+group by CAST (EccosRowCreateDtUTC AS DATE) order by CAST (EccosRowCreateDtUTC AS DATE);
+
+--InteractionAgentDetail
+
+select count(1) InteractionAgentDetail, CAST (InteractionStartDt AS DATE) [date]
+
+FROM [dbo].[InteractionAgentDetail] WHERE CAST (InteractionStartDt AS DATE) >= '09/17/2025'
+
+AND CAST (InteractionStartDt AS DATE) < '09/19/2025'
+
+group by CAST(InteractionStartDt AS DATE) order by CAST (InteractionStartDt AS DATE);
+
+--InteractionAgentSummary
+
+select count(1) InteractionAgentSummary,CAST (BeginTimePeriodDt AS DATE) [date]
+
+FROM [dbo].[InteractionAgentSummary] WHERE CAST (BeginTimePeriodDt AS DATE) >= '09/17/2025*
+
+AND CAST (BeginTimePeriodDt AS DATE) < '09/19/2025'
+
+group by CAST (BeginTimePeriodDt AS DATE) order by CAST (BeginTimePeriodDt AS DATE);
+
+
+
+
+
 Here’s a concise bullet point you can include in your summary to reflect your contribution to the CCaaS (Contact Center as a Service) initiative:
 Here’s a concise bullet point you can include in your summary to reflect your contribution to the CCaaS (Contact Center as a Service) initiative:
 
