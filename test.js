@@ -1,4 +1,38 @@
-[2/18, 11:10 AM] Kirti Chetan: SELECT DISTINCT SiteId
+SELECT DISTINCT SiteId
+
+DateCreated
+
+--, Interval
+
+sum (CallsAnswered) as CallsAnswered Interval,
+
+min (Interval), max (Interval)
+
+FROM AID0241.dbo. Avaya Interval
+
+WHERE DateCreated>=cast(getdate()-1 as date)
+
+and SiteId in ('44', '47')
+
+GROUP BY SiteId
+
+DateCreated
+
+ORDER BY DateCreated
+
+select siteid, cast (DateFor as date) date, min(DateFor), max(datefor), count(*) records from aid0241. AvayaRep
+
+cast(datefor as date)>=cast(getdate()-2 as da)
+
+group by siteid, cast (DateFor as date) order by 2 desc
+
+
+
+
+
+
+
+2/18, 11:10 AM] Kirti Chetan: SELECT DISTINCT SiteId
 
 DateCreated
 
